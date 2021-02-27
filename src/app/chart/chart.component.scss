@@ -1,0 +1,11 @@
+.chart {
+    width: 50%;
+    float: right;
+    /* clear: both; */
+  }
+
+  @media (max-width: 576px) {
+    .chart {
+      width: 100%;
+    }
+  }
